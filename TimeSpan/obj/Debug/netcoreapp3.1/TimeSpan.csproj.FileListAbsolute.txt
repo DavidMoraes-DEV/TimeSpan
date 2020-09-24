@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.exe
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.deps.json
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.dll
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.dll
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\ProgramasCSharp\ConceitoDeInferenciaDeTipos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.genruntimeconfig.cache
